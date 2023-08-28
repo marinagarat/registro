@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
 
+
     function showAlertSuccess() {
         document.getElementById("alert-success").classList.add("show");
     }
